@@ -1,0 +1,57 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 60px;
+  vertical-align: top;
+  font-family: muli;
+  font-size: 14px;
+  text-align: center;
+  line-height: 20px;
+  margin-top: 30px;
+}
+.img1 {
+  margin-right: 75px;
+  width: 300px;
+}
+.img2 {
+  margin-right: 75px;
+  width: 300px;
+}
+.img3 {
+  width: 300px;
+}
+span {
+  color: grey;
+  font-size: 11px;
+}
+p {
+  color: grey;
+  font-size: 13px;
+}
+.Cart-button {
+  background-color: black;
+  border: none;
+  color: white;
+  font-weight: bold;
+  height: 28px;
+  width: 62px;
+  cursor: pointer;
+  margin-right: 7px;
+}
+.Cart-button:hover {
+  opacity: 0.7;
+}
+.View-button {
+  background-color: white;
+  border-color: black;
+  font-weight: bold;
+  border-style: solid;
+  height: 28px;
+  width: 62px;
+  cursor: pointer;
+}
+.View-button:hover {
+  opacity: 0.7;
+}

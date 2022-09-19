@@ -1,0 +1,35 @@
+.Beagle {
+  background-color: #fafafa;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+  height: 500px;
+  line-height: 1.5;
+  border-radius: 10px;
+}
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  text-align: right;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  font-family: sans-serif;
+}
+aside {
+  width: 20%;
+  padding-left: 10px;
+  float: left;
+  border-right: solid lightgray;
+  height: 520px;
+}
+
+.text {
+  margin-left: 15px;
+}

@@ -1,0 +1,35 @@
+table {
+  background-color: whitesmoke;
+  width: 50%;
+  border-spacing: 10px 10px;
+  table-layout: fixed;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.rand1 {
+  background-color: #f7d668;
+  border-radius: 7px;
+  border-spacing: 10 15px;
+  border-color: #f7f7f7;
+  padding: 25px;
+}
+.rand2 td {
+  background-color: #28aea3;
+  border-radius: 7px;
+  border-spacing: 0 15px;
+  padding: 25px;
+}
+.rand3 td {
+  background-color: #166298;
+  border-radius: 7px;
+  border-spacing: 0 15px;
+  padding: 25px;
+}
+.rand4 {
+  background-color: #f7d668;
+  border-radius: 7px;
+  border-spacing: 0 15px;
+  padding: 25px;
+}

@@ -1,0 +1,53 @@
+ <h3>MRI of the brain and spinal cord</h3>
+        <p>MRI is the most frequently used imaging test of the brain and spinal cord. It's often performed to
+            help diagnose:
+        </p>
+        <ul>
+            <li>Aneurysms of cerebral vessels</li>
+            <li> Disorders of the eye and inner ear</li>
+            <li>Multiple sclerosis</li>
+            <li>Spinal cord disorders</li>
+            <li>Stroke</li>
+            <li>Tumors</li>
+            <li>Brain injury from trauma</li>
+        </ul>
+        <h3>MRI of the heart and blood vessels</h3>
+        <p>MRI that focuses on the heart or blood vessels can assess:
+        </p>
+        <ul>
+            <li>Size and function of the heart's chambers</li>
+            <li> Thickness and movement of the walls of the heart</li>
+            <li>Extent of damage caused by heart attacks or heart disease</li>
+            <li>Structural problems in the aorta, such as aneurysms or dissections</li>
+            <li>Inflammation or blockages in the blood vessels</li>
+
+        </ul>
+        <h3>MRI of other internal organs</h3>
+        <p>MRI can check for tumors or other abnormalities of many organs in the body, including the following:
+        </p>
+        <ul>
+            <li>Liver and bile ducts</li>
+            <li> Kidneys</li>
+            <li>Spleen</li>
+            <li>Pancreas</li>
+            <li>Uterus</li>
+            <li>Ovaries</li>
+            <li>Prostate</li>
+
+        </ul>
+        </ul>
+        <h3>MRI of bones and joints</h3>
+        <p>MRI can help evaluate:</p>
+        <ul>
+            <li>Joint abnormalities caused by traumatic or repetitive injuries, such as torn cartilage or ligaments
+            </li>
+            <li> Disk abnormalities in the spine</li>
+            <li>Bone infections</li>
+            <li>Tumors of the bones and soft tissues</li>
+
+        </ul>
+        </ul>
+        <h3>MRI of the breasts</h3>
+        <p>MRI can be used with mammography to detect breast cancer, particularly in women who have dense breast
+            tissue or
+            who might be at high risk of the disease</p>

@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(245, 245, 245);
+  background-image:
+  margin: 30px;
+  padding: 20px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
